@@ -39,4 +39,4 @@ white
 
 Roboto
 
-site:bootstraptodo.ccbp.tech
+site: https://todolistsw.ccbp.tech/
